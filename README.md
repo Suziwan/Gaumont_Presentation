@@ -1,7 +1,7 @@
-# Gaumont_Presentation
+# Gaumont_Presentation <img src=/Logos/Gaumont-logo.png width="200" align="right" />
 Week 3 Day 3 - Project: Presentation of cinema data (movies and frequentation).
 
-The aim of this project is to prepare a PowerPoint presentation for the Gaumont cinema company.
+The aim of this project is to prepare a PowerPoint presentation for the Gaumont cinema company.  
 
 ## Data analysis
 The file analysed shows data on the frequentation and movies in french cinemas from as early as 1938, up to 2021.  
