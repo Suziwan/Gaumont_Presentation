@@ -17,6 +17,10 @@ Also, I included information about **on-demand video** platforms (Netflix, Amazo
 - [Statista article](https://fr.statista.com/infographie/24389/evolution-nombre-abonnes-payants-svod-plateformes-streaming-video-netflix-prime-video-disney-/) 
 - [BFM TV article](https://www.bfmtv.com/economie/consommation/streaming-video-8-3-millions-d-utilisateurs-quotidiens-en-france-un-budget-de-15-euros-par-mois_AN-202103090186.html)
 
+For current estimations (years 2022/2023) and predictions:
+- [CNC article](https://www.cnc.fr/professionnels/actualites/frequentation-cinematographique--estimations-du-mois-davril-2023_1943782#:~:text=Top%20avril%202023-,Estimations%20du%20mois%20d'avril%202023,sur%20les%20quatre%20premiers%20mois.)
+- [TF1 article](https://www.tf1info.fr/culture/cinema-152-millions-d-entrees-en-2022-les-francais-ont-retrouve-le-chemin-des-salles-obscures-2243673.html)
+
 It would be interesting the include these informations to the data analysis, but this was not done by lack of time.
 
 ## PowerPoint presentation
